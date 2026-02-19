@@ -1,0 +1,19 @@
+# API REST de Productos - Node.js
+
+Proyecto de práctica para el desarrollo de una API RESTful.
+
+## 🚀 Funcionalidades
+- **GET /products**: Lista todos los productos.
+- **GET /products/:id**: Busca un producto específico.
+- **DELETE /products/:id**: Elimina un producto por su ID.
+
+## 🛠️ Tecnologías
+- **Node.js** y **Express** para la lógica del servidor.
+- **JavaScript (ES6+)** para la manipulación de datos.
+- **Postman** para el testeo de endpoints.
+- **Git** para el control de versiones.
+
+## ⚙️ Instalación
+1. Clonar el repositorio.
+2. Ejecutar `npm install` para instalar dependencias.
+3. Iniciar con `node index.js`.
