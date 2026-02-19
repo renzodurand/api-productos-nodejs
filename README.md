@@ -21,5 +21,5 @@ Proyecto de práctica para el desarrollo de una API RESTful.
 3. Iniciar con `node index.js`.
 
 ## 📩 Contacto
-- Desarrollado con dedicación por Renzo Durand.
+- Desarrollado con dedicación por `Renzo Durand`.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzo-durand/)
