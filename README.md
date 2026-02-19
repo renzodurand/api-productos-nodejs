@@ -5,6 +5,8 @@ Proyecto de práctica para el desarrollo de una API RESTful.
 ## 🚀 Funcionalidades
 - **GET /products**: Lista todos los productos.
 - **GET /products/:id**: Busca un producto específico.
+- **POST /products**: Registra un nuevo producto.
+- **PUT /products/:id**: Actualiza la información de un producto existente.
 - **DELETE /products/:id**: Elimina un producto por su ID.
 
 ## 🛠️ Tecnologías
